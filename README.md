@@ -2,7 +2,6 @@
 ![alt text](https://cdn1.bigcommerce.com/server3600/oum4qu/products/1035/images/3289/dat256__06735.1578330817.1280.1280.PNG?c=2)
 
 # About this course 
- 
 
 This course is part of the **Microsoft Professional Program Certificate in Data Science** and the **Microsoft Professional Program in Artificial Intelligence**. 
 
@@ -35,14 +34,3 @@ After completing this course, you will be familiar with the following mathematic
 ● Differentiation and Optimization  
 ● Vectors and Matrices  
 ● Statistics and Probability  
-
----
-# Contact Information:
-If you have any questions or suggestions about code, project or any other topics, please feel free to contact me and discuss with me. 😄😄😄
-
-<a href="https://www.linkedin.com/in/tzu-wei-wang-a09707157" target="_blank"><img src="https://github.com/JeffWang0325/JeffWang0325/blob/master/Icon%20Image/linkedin_64.png" width="64"></a>
-<a href="https://www.youtube.com/channel/UC9nOeQSWp0PQJPtUaZYwQBQ" target="_blank"><img src="https://github.com/JeffWang0325/JeffWang0325/blob/master/Icon%20Image/youtube_64.png" width="64"></a>
-<a href="https://www.facebook.com/tzuwei.wang.33/" target="_blank"><img src="https://github.com/JeffWang0325/JeffWang0325/blob/master/Icon%20Image/facebook_64.png" width="64"></a>
-<a href="https://www.instagram.com/tzuweiw/" target="_blank"><img src="https://github.com/JeffWang0325/JeffWang0325/blob/master/Icon%20Image/instagram_64.png" width="64"></a>
-<a href="https://www.kaggle.com/tzuweiwang" target="_blank"><img src="https://github.com/JeffWang0325/JeffWang0325/blob/master/Icon%20Image/kaggle_64.png" width="64"></a>
-<a href="https://github.com/JeffWang0325" target="_blank"><img src="https://github.com/JeffWang0325/JeffWang0325/blob/master/Icon%20Image/github_64.png" width="64"></a>
